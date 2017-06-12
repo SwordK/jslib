@@ -6,7 +6,7 @@
 import pandas as pd
 import json
 
-_version_jason = '''
+_version_json = '''
 {
     "version": "0.0.1"
 }
